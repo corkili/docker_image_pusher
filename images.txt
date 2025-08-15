@@ -1,3 +1,1 @@
-nginx
---platform=linux/amd64 openjdk:17-jdk-slim
-postgres
+postgres:15
