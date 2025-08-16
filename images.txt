@@ -3,4 +3,5 @@
 # --platform=linux/amd64 postgres:15
 # thingsboard/tb-postgres
 # rabbitmq:3-management
-openjdk:11-jre-slim
+# openjdk:11-jre-slim
+openjdk:11-jdk-slim
