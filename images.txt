@@ -2,4 +2,5 @@
 # --platform=linux/amd64 eclipse-temurin:17-jdk
 # --platform=linux/amd64 postgres:15
 # thingsboard/tb-postgres
-rabbitmq:3-management
+# rabbitmq:3-management
+openjdk:11-jre-slim
