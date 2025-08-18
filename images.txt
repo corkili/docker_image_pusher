@@ -6,4 +6,5 @@
 # openjdk:11-jre-slim
 # openjdk:11-jdk-slim
 # maven:3.8.6-openjdk-11-slim
-rabbitmq:3.11-management
+# rabbitmq:3.11-management
+--platform=linux/amd64ubuntu:22.04
