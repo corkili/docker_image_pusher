@@ -7,4 +7,6 @@
 # openjdk:11-jdk-slim
 # maven:3.8.6-openjdk-11-slim
 # rabbitmq:3.11-management
---platform=linux/amd64 openjdk:11-jdk-slim
+# --platform=linux/amd64 openjdk:11-jdk-slim
+
+--platform=linux/amd64 citusdata/citus:latest
