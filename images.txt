@@ -10,4 +10,4 @@
 # --platform=linux/amd64 openjdk:11-jdk-slim
 # --platform=linux/arm64 postgres:11.4
 
-arm64v8/postgres:11.4
+--platform=linux/arm64v8 postgres:11.4
