@@ -9,4 +9,4 @@
 # rabbitmq:3.11-management
 # --platform=linux/amd64 openjdk:11-jdk-slim
 
---platform=linux/arm64 citusdata/citus:latest
+--platform=linux/arm64 postgres:11.4
